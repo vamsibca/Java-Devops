@@ -1,2 +1,2 @@
-## DevOps Project for Beginners   
+## DevOps Project for CI CD using GITHUB MAVEN TOMCAT JENKINS DOCKER
 
